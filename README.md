@@ -20,7 +20,7 @@ This project is an introduction to Input/Output system calls.
 - Access the cloned folder:
 `cd 42-get_next_line`
 - Add `#include "get_next_line.h` in your source code or header file.
-- Compile with: ``gcc get_next_line.c get_next_line_utils.c get_next_line.h main.c``
+- Compile with: ``gcc main.c get_next_line.c get_next_line_utils.c get_next_line.h``
 
 ## What it does ?
 
