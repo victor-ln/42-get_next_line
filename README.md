@@ -7,7 +7,7 @@
 - [Introduction](#Introduction)
 - [How to run](#How-to-run)
 - [What it does](#What-it-does)
-- [What I've learned](#What-I've-learned)
+- [What I have learned](#What-I-have-learned)
 
 ## Introduction
 
@@ -27,7 +27,7 @@ This project is an introduction to Input/Output system calls.
 `char *get_next_line(int fd)` is a function that reads the number defined in `BUFFER_SIZE` of bytes from an opened file and returns as its name suggests, a line from it, i.e. from where the file position indicator started/stopped until a newline character.
 If reaches EOF, an error occurs or an invalid file descriptor is passed, it returns NULL.
 
-## What I've learned
+## What I have learned
 
 - Implementing Static and Structures variables
 - Read and Open files
